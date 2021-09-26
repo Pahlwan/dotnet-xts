@@ -7,17 +7,17 @@ using XTS_Access.Domain;
 
 namespace XTS_Access.Response
 {
-    public class QuoteResult
+    public class UnsubscribeResult
     {
         public int mdp;// 1502,
-        public Instrument[] quotesList;// = new QuotePkt[10];
-        public Quote[] listQuotes;
+        public Instrument[] unsubList;// 
     }
-    public class QuoteResponse
+
+    public class UnsubscibeResponse
     {
         public string type;// "success",
         public string code;// "s-response-0001",
-        public string description;// "Get quotes successfully!",
-        public QuoteResult result;
+        public string description;// "Instrument subscription deleted!",
+        public UnsubscribeResult result;
     }
 }

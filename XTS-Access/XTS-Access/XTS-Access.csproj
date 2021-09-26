@@ -6,11 +6,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="LiveData\" />
-  </ItemGroup>
-
-  <ItemGroup>
+    <PackageReference Include="EngineIoClientDotNet" Version="0.9.22" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="SocketIoClientDotNet" Version="0.9.13" />
     <PackageReference Include="System.Net.Http.Json" Version="5.0.0" />
   </ItemGroup>
 
