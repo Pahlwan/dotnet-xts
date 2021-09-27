@@ -1,0 +1,13 @@
+E:\XTS-Access\XTS-Access\bin\Debug\XTS-Access.dll.config
+E:\XTS-Access\XTS-Access\bin\Debug\XTS-Access.dll
+E:\XTS-Access\XTS-Access\bin\Debug\XTS-Access.pdb
+E:\XTS-Access\XTS-Access\bin\Debug\EngineIoClientDotNet.dll
+E:\XTS-Access\XTS-Access\bin\Debug\Newtonsoft.Json.dll
+E:\XTS-Access\XTS-Access\bin\Debug\SocketIoClientDotNet.dll
+E:\XTS-Access\XTS-Access\bin\Debug\WebSocket4Net.dll
+E:\XTS-Access\XTS-Access\bin\Debug\Newtonsoft.Json.xml
+E:\XTS-Access\XTS-Access\obj\Debug\XTS-Access.csproj.AssemblyReference.cache
+E:\XTS-Access\XTS-Access\obj\Debug\XTS-Access.csproj.CoreCompileInputs.cache
+E:\XTS-Access\XTS-Access\obj\Debug\XTS-Access.csproj.CopyComplete
+E:\XTS-Access\XTS-Access\obj\Debug\XTS-Access.dll
+E:\XTS-Access\XTS-Access\obj\Debug\XTS-Access.pdb

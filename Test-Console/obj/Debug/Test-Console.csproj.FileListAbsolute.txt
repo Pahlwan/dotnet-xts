@@ -1,0 +1,17 @@
+E:\XTS-Access\Test-Console\bin\Debug\Test-Console.exe.config
+E:\XTS-Access\Test-Console\bin\Debug\Test-Console.exe
+E:\XTS-Access\Test-Console\bin\Debug\Test-Console.pdb
+E:\XTS-Access\Test-Console\bin\Debug\XTS-Access.dll
+E:\XTS-Access\Test-Console\bin\Debug\SocketIoClientDotNet.dll
+E:\XTS-Access\Test-Console\bin\Debug\EngineIoClientDotNet.dll
+E:\XTS-Access\Test-Console\bin\Debug\Newtonsoft.Json.dll
+E:\XTS-Access\Test-Console\bin\Debug\WebSocket4Net.dll
+E:\XTS-Access\Test-Console\bin\Debug\XTS-Access.pdb
+E:\XTS-Access\Test-Console\bin\Debug\XTS-Access.dll.config
+E:\XTS-Access\Test-Console\bin\Debug\Newtonsoft.Json.xml
+E:\XTS-Access\Test-Console\obj\Debug\Test-Console.csproj.AssemblyReference.cache
+E:\XTS-Access\Test-Console\obj\Debug\Test-Console.exe.config
+E:\XTS-Access\Test-Console\obj\Debug\Test-Console.csproj.CoreCompileInputs.cache
+E:\XTS-Access\Test-Console\obj\Debug\Test-Console.csproj.CopyComplete
+E:\XTS-Access\Test-Console\obj\Debug\Test-Console.exe
+E:\XTS-Access\Test-Console\obj\Debug\Test-Console.pdb
